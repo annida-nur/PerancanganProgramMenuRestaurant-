@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1578368088 source:c:\users\asus\documents\semester 1\algoritma pemrograman\tugas\tugas besar\program menu restauran tugas besar alpro\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<fstream>
+
+1578368088 source:c:\users\asus\documents\coolyeah\semester 1\algoritma pemrograman\tugas\tugas besar\program menu restauran tugas besar alpro\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<fstream>
+
